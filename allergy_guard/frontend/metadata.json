@@ -1,0 +1,8 @@
+
+{
+  "name": "AllergyGuard",
+  "description": "Real-time allergen detection for safe dining. Scan menus and get detailed ingredient analysis powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
